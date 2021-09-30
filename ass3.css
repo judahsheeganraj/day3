@@ -1,0 +1,196 @@
+body{
+    background: url("./gray.jpg");
+}
+.header{
+    border: 7px groove red;
+    height: 136px;
+    width: 380px;
+    margin-left: 512px;
+    border-radius: 17px;
+    background-color: azure;
+    line-height: 35px;
+    padding: 25px;
+    padding-top: 0px;
+    box-shadow: 4px 4px purple;
+}
+.header p{
+    text-align: center;
+    font-size: 29px;
+    color: rgb(110, 7, 7);
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: revert;
+    text-shadow: 1px 1.5px 2px purple;
+}
+
+.middle{
+    border: 6px solid green;
+    position: relative;
+    height: 527px;
+    
+}
+.box{
+    text-shadow: 1px 1.1px 2px brown;
+    box-shadow: 4px 4px purple;
+}
+
+.box1{
+    border: 4px groove red ;
+    border-radius:12px;
+    height: 199px;
+    width: 202px;
+    position: absolute;
+    left: 5px;
+    top: 2px;
+    text-align: center;
+    font-weight: bolder;
+    color: #2D2424;
+    line-height: 37px;
+    background-color: azure;
+    font-size: 21px;
+    /* text-shadow: 20px 12px  teal; */
+}
+.box2{
+    border: 4px groove red ;
+    border-radius:12px;
+    height: 199px;
+    width: 202px;
+    position: absolute;
+    right: 40px;
+    top: 2px;
+    font-size: small;
+    background-color: yellow;
+}
+.box3{
+    border: 4px groove red ;
+    border-radius:12px;
+    height: 199px;
+    width: 202px;
+    position: absolute;
+    top: 290px;
+    left: 5px;
+    font-size: 21px;
+    padding-bottom: 3px;
+    font-weight: bolder;
+    color: #2D2424;
+    background-color: azure;
+    
+}
+.box4{
+    border: 4px groove red ;
+    border-radius:12px;
+    height: 199px;
+    width: 202px;
+    position: absolute;
+    right: 40px;
+    top: 290px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bolder;
+    color: #2D2424;
+    background-color: azure;
+}
+.box2 img{
+    height: 139px;
+    width: 160px;
+    top: 22px;
+    position: absolute;
+    left: 10px;
+}
+.box5{
+    position: fixed;
+    top: 335px;
+    left: 530px;
+    border: 4px groove red;
+    border-radius: 15px;
+    width: 426px;
+    height: 56px;
+    background-color: greenyellow;
+    visibility: visible;
+    box-shadow: 4px 4px purple;
+}
+.menu1{
+    position: absolute;
+    left: 14px;
+    text-align: center;
+    top: 9px;
+    font-size: 17px;
+    font-style: oblique;
+    font-weight: bolder;
+    color: rgb(110, 7, 7);
+}
+.menu2{
+    position: absolute;
+    left: 230px;
+    font-size: 14px;
+    top: 7px;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(110, 7, 7);
+}
+.container{
+    border: 6px groove purple;
+    background-color: green;
+    width: 644px;
+    margin: 16px;
+    margin-left: 28%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    position: relative;
+    height: 474px;
+    font-style: oblique;
+}
+.fruits{
+    border: 0px solid black;
+    background-color: khaki;
+    position: absolute;
+    width: 320px;
+    font-size: 12px;
+    height: 190px;
+    top: 73px;
+    line-height: 26px;
+}
+.veg{
+    border: 0px solid black;
+    background-color: khaki;
+    position: absolute;
+    width: 320px;
+    font-size: 12px;
+    height: 190px;
+    top: 73px;
+    right: 0px;
+    line-height: 26px;
+}
+.other{
+    border: 0px solid black;
+    background-color: khaki;
+    position: absolute;
+    width: 644px;
+    font-size: 10px;
+    height: 210px;
+    top: 267px;
+    right: 0px;
+    font-size: 13px;
+    line-height: 24px;
+    text-align: center;
+}
+.container h3{
+    font-size: 20px;
+}
+.container p{
+    font-style: normal;
+}
+.box4 input{
+    height: 12px;
+    width: 100px;
+    text-align: center;
+}
+.box4 label{
+    font-size: 15px;
+}
+button{
+    background-color: red;
+    border-radius: 15px;
+}
